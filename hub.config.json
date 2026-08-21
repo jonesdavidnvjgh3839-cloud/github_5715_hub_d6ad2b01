@@ -1,0 +1,49 @@
+{
+  "hub_name": "Solution Knowledge Hub",
+  "quarter": "2026 Q3",
+  "owner_team": "Content Operations",
+  "solutions": [
+    {
+      "id": "expense-tracker",
+      "title": "Expense Tracker",
+      "category": "Fintech",
+      "status": "active"
+    },
+    {
+      "id": "ai-support-bot",
+      "title": "AI Support Bot",
+      "category": "Customer Service",
+      "status": "active"
+    },
+    {
+      "id": "payroll-automation",
+      "title": "Payroll Automation",
+      "category": "HR Tech",
+      "status": "deprecated"
+    },
+    {
+      "id": "contract-analytics",
+      "title": "Contract Analytics",
+      "category": "Legal Tech",
+      "status": "deprecated"
+    },
+    {
+      "id": "fraud-detector",
+      "title": "Fraud Detector",
+      "category": "Risk",
+      "status": "pending"
+    },
+    {
+      "id": "invoice-ocr",
+      "title": "Invoice OCR Engine",
+      "category": "Document AI",
+      "status": "pending"
+    },
+    {
+      "id": "lead-scoring",
+      "title": "Lead Scoring",
+      "category": "Sales",
+      "status": "pending"
+    }
+  ]
+}
